@@ -1,0 +1,105 @@
+/* BACKGROUND COLORS */
+
+.blue-bg {
+    background-color: #255EE9;
+}
+
+.grey-bg {
+    background-color: #F5F5F5;
+}
+
+.black-bg {
+    background-color: #23272A;
+}
+
+.white-bg {
+    background-color: #FFFFFF;
+}
+
+.lightblue-bg {
+    background-color: #7289DA;
+}
+/* FONT COLORS */
+
+.white-font {
+    color: #FFFFFF;
+}
+
+.black-font {
+    color: #000000;
+}
+
+.lightblue-font {
+    color: #7289DA;
+}
+
+/* BUTTONS LAYOUT */
+
+.login-button {
+    height: 38px;
+    width: 75px;
+    border-radius: 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link-layout {
+    display: flex;
+    border-radius: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.download-button {
+    width: 175px;
+}
+
+.open-discord {
+    width: 275px;
+}
+
+/* TEXT LAYOUT */
+
+.login-button a,
+.header-bottom-links a,
+.main-ending-container a,
+.column a {
+    text-decoration: none;
+}
+
+.line-height {
+    line-height: 175%;
+}
+
+.arrow {
+    font-size: 16px;
+    vertical-align: middle;
+    padding-right: 5px;
+    font-weight: 100;
+}
+
+.text-container h1, .footer-text-container h1 {
+    font-size: 50px;
+}
+
+.text-container p, .footer-text-container p {
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.main-ending-container h1 {
+    padding-top: 45px;
+    background-image: url(../img/stars.svg);  
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 650px;
+    text-align: center;
+}
+
+.column h1 {
+    font-size: 40px;
+}
