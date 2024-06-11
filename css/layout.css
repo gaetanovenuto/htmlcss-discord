@@ -67,7 +67,8 @@
 .login-button a,
 .header-bottom-links a,
 .main-ending-container a,
-.column a {
+.column a,
+.footer-footer a {
     text-decoration: none;
 }
 
@@ -103,3 +104,10 @@
 .column h1 {
     font-size: 40px;
 }
+
+.blue-hr {
+    border: 2px solid #7289da;
+    width: 80%;
+    margin: 0 auto;
+}
+
